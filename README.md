@@ -16,6 +16,7 @@ This is a simple web proyect, deployment is starting now.
 
 ## How to Configure
 
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 

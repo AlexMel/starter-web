@@ -16,3 +16,7 @@ This is a simple web proyect, deployment is starting now.
 
 ## How to Configure
 
+
+## Copyright
+
+2014 Git.Training.
